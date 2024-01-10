@@ -1,4 +1,3 @@
 # practicas-python
 
-Practicas que e realizado en varios dias
-xzx
+Practicas que he realizado en varios dias
